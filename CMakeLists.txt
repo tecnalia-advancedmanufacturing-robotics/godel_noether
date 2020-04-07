@@ -12,6 +12,7 @@ find_package(catkin REQUIRED COMPONENTS
   noether
   noether_conversions
   path_planning_plugins_base
+  godel_msgs
 )
 
 ## System dependencies are found with CMake's conventions
